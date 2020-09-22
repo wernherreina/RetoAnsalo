@@ -1,0 +1,131 @@
+/* .wallpaper {
+
+
+
+} 
+ */
+*{
+    Margin: 0;
+    Padding: 0;
+    Box-sizing: border-box;
+    }
+
+    .body {
+   /* background-image: url("../img/wpgreen.jpg");  */
+   /* background: var(--color-secondary); */
+   color: var(--font-color);
+   background-image: var(--background-image);
+background-repeat: no-repeat;
+ background-size: cover; 
+ background-position: center center;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+
+
+          .theme-retro {
+            --color-primary: #0060df;
+            --color-secondary: #fbfbfe;
+            --color-accent: #fd6f53;
+            --font-color: #b8590b;
+            --background-image: url("../img/retro1.png");
+ 
+            }
+
+          .theme-light {
+            --color-primary: #0060df;
+            --color-secondary: #fbfbfe;
+            --color-accent: #fd6f53;
+            --font-color: #000000;
+            --background-image: url("../img/wpgreen.jpg");
+          }
+          .theme-dark {
+            --color-primary: #17ed90;
+            --color-secondary: #243133;
+            --color-accent: #12cdea;
+            --font-color: #ffffff;
+            --background-image: url("../img/blackcity.png")
+          }
+          .tema {
+            background: var(--color-secondary);
+            color: var(--font-color);
+            background-image: var(--background-image)
+          }
+          .tema .h1 label{
+            color: var(--font-color);
+          }
+          .tema .button {
+            color: var(--font-color);
+            background: var(--color-primary);
+            padding: 10px 20px;
+            border: 0;
+            border-radius: 5px;
+          }
+        
+
+
+.myButton4 {
+box-shadow:inset 0px 0px 10px 0px #dcecfb;
+background:linear-gradient(to bottom, #bddbfa 5%, #11cc20; 100%);
+background-color:#11cc20;
+border-radius:100%;
+border:3px solid #11cc20;
+display:inline-block;
+cursor:pointer;
+color:#1f1c1f;
+font-family:Arial;
+font-size:15px;
+font-weight:bold;
+padding:6px 24px;
+text-decoration:none;
+text-shadow:0px 1px 0px #528ecc;
+}
+.myButton4:hover {
+background:linear-gradient(to bottom, #80b5ea 5%, #bddbfa 100%);
+background-color:#80b5ea;
+}
+.myButton4:active {
+position:relative;
+top:1px;
+}
+
+
+.myButton3 {
+    box-shadow:inset 0px 0px 10px 0px #dcecfb;
+    background:linear-gradient(to bottom, #997853 5%, #a7600f; 100%);
+    background-color:#11cc20;
+    border-radius:100%;
+    border:3px solid #11cc20;
+    display:inline-block;
+    cursor:pointer;
+    color:#1f1c1f;
+    font-family:Arial;
+    font-size:15px;
+    font-weight:bold;
+    padding:6px 24px;
+    text-decoration:none;
+    text-shadow:0px 1px 0px #528ecc;
+    }
+    .myButton3:hover {
+    background:linear-gradient(to bottom, #80b5ea 5%, #bddbfa 100%);
+    background-color:#80b5ea;
+    }
+    .myButton3:active {
+    position:relative;
+    top:1px;
+    }
+
+.campoTarea{
+    background-color: rgb(30, 88, 6);
+    border-radius: 5px;
+    height: 30px;
+    box-shadow: 5px 5px 5px 5px #12aa5e;
+}
+
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:rgb(34, 156, 9);border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:rgb(34, 156, 9);border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-73oq{border-color:#rgb(34, 156, 9);text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+
